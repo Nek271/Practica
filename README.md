@@ -18,4 +18,4 @@
 # Practica 2.4 ![image4](https://user-images.githubusercontent.com/130033874/231099009-876c48ea-e075-4cab-8310-59960f2bf032.png)
 # Practica 2.5 ![image5](https://user-images.githubusercontent.com/130033874/231099126-3589081a-b96e-4e7f-aec2-5b8451efe42f.png)
 # И в результате приложение выглядело так
-# Practica 2.6 ![image6](![image](https://user-images.githubusercontent.com/130033874/231100537-62b69915-1c74-4959-b88b-25879d103037.png))
+# Practica 2.6 ![image6](https://user-images.githubusercontent.com/130033874/231101792-d9abd121-2b87-43e7-8803-51d675312c77.png)
